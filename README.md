@@ -23,10 +23,7 @@ Google Forms, Google Sheets , Zapier , Gmail
 7. **Zap 2:** sends the coordinator an email with the message, category, priority, and draft reply.
 
 ## Screenshots
-Available in screenshots folder
-
-## Demo video
-Available in screenshots folder
+Available 
 
 ## Example formula (category)
 Google Sheets set to French uses semicolons and French function names:
